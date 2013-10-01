@@ -1,0 +1,14 @@
+{
+    "name": "deresh/sfform",
+    "description": "Standalone symfony1.4 forms",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Krešo Kunjas",
+            "email": "kreso@omegamedia.hr"
+        }
+    ],
+    "require": {
+
+    }
+}
